@@ -5,8 +5,3 @@ __pycache__/
 .matplotlib-cache/
 .cache/
 .streamlit/secrets.toml
-
-# Generated training outputs
-models/*.joblib
-results/*.csv
-test_data.csv
